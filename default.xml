@@ -1,5 +1,5 @@
 <manifest>
-  <!-- Define the default remote and revision -->
+  <!-- Define the default remote and revision check this came-->
   <remote name="origin" fetch="https://github.com/veerakotte/expRepoUtilities.git" />
   <default remote="origin" revision="main" />
 
