@@ -1,6 +1,6 @@
 <manifest>
   <!-- Define the default remote and revision check this came-->
-  <remote name="origin" fetch="https://github.com/veerakotte/expRepoUtilities.git" />
+  <remote name="origin" fetch="https://github.com/veerakotte/expRepoUtilities" />
   <default remote="origin" revision="main" />
 
   <!-- Define the repositories to include -->
